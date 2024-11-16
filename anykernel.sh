@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Unlock Your Max Performance Kernel by SakhaProX (Arsakha Virendra Shafwan)
+kernel.string=Reloaded Kernel by SakhaProX (Arsakha Virendra Shafwan)
 do.devicecheck=0
 do.modules=0
 do.systemless=1
